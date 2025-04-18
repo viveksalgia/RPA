@@ -35,7 +35,7 @@ def login(url, args):
     # Set the logging defaults for all inherited logging calls
     logging.basicConfig(level=logging.getLevelName(args.loglevel.upper()))
     url_user = "informaticaserviceaccount"
-    url_pass = "KqUxXaW3WTHD"
+    url_pass = "xxxxxxxxxxx"
 
     driver = webdriver.Chrome()
     driver.get(url)
