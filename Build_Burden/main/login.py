@@ -33,7 +33,7 @@ def login(url, args):
     url = args.url
 
     url_user = "oicserviceaccount"
-    url_pass = "Broad123!"
+    url_pass = "xxxxxxx"
 
     driver = webdriver.Chrome()
     driver.delete_all_cookies()
